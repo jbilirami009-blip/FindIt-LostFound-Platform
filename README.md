@@ -27,11 +27,10 @@ The platform supports user interaction, image uploads, and administrative modera
 
 ## ⚙️ Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/FindIt-LostFound-Platform.git
+git clone https://github.com/jbilirami009-blip/FindIt-LostFound-Platform.git
+3. Import database into MySQL
 
-2. Import database into MySQL
-
-3. Run project using XAMPP / local server
+4. Run project using XAMPP / local server
 
 ---
 
